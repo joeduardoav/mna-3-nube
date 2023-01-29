@@ -1,0 +1,5 @@
+﻿  mna-nube-tarea1-a01273800.cpp
+C:\Users\Lab de Cómputo\Desktop\a01273800\mna-nube-tarea1-a01273800\mna-nube-tarea1-a01273800.cpp(35,12): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Lab de Cómputo\Desktop\a01273800\mna-nube-tarea1-a01273800\mna-nube-tarea1-a01273800.cpp(36,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Lab de Cómputo\Desktop\a01273800\mna-nube-tarea1-a01273800\mna-nube-tarea1-a01273800.cpp(19): warning C4101: 'i': variable local sin referencia
+  mna-nube-tarea1-a01273800.vcxproj -> C:\Users\Lab de Cómputo\Desktop\a01273800\mna-nube-tarea1-a01273800\x64\Debug\mna-nube-tarea1-a01273800.exe
